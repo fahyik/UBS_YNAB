@@ -1,0 +1,19 @@
+sep=;
+Account number;Card number;Account/Cardholder;Purchase date;Booking text;Sector;Amount;Original currency;Rate;Currency;Debit;Credit;Booked
+1111 1111 1111;;DOE JOHN;10.08.2017;Balance brought forward;;;;;CHF;;0.00;
+1111 1111 1111;0000 0000 0000 0000;JOHN DOE;25.08.2017;ZVV-Ticket-App Zuerich CHE;Passenger railways;6.20;CHF;;;;;
+1111 1111 1111;0000 0000 0000 0000;JOHN DOE;24.08.2017;Coop-1833 ZH Manessehof  Zurich       CHE;Grocery stores;2.50;CHF;;CHF;2.50;;25.08.2017
+1111 1111 1111;0000 0000 0000 0000;JOHN DOE;22.08.2017;Coop-1833 ZH Manessehof  Zurich       CHE;Grocery stores;13.35;CHF;;CHF;13.35;;23.08.2017
+1111 1111 1111;0000 0000 0000 0000;JOHN DOE;22.08.2017;Coop-1833 ZH Manessehof  Zurich       CHE;Grocery stores;4.45;CHF;;CHF;4.45;;23.08.2017
+1111 1111 1111;0000 0000 0000 0000;JOHN DOE;21.08.2017;ZVV-TICKET-APP           ZUERICH      CHE;Passenger railways;6.20;CHF;;CHF;6.20;;22.08.2017
+1111 1111 1111;0000 0000 0000 0000;JOHN DOE;20.08.2017;KRIENSEREGGBAHN AG       Kriens       CHE;Commuter transportation;108.00;CHF;;CHF;108.00;;21.08.2017
+1111 1111 1111;0000 0000 0000 0000;JOHN DOE;20.08.2017;Tankstelle Vogel         Zurich       CHE;Gasoline service stations;13.75;CHF;;CHF;13.75;;22.08.2017
+1111 1111 1111;0000 0000 0000 0000;JOHN DOE;19.08.2017;Jumbo-Markt AG 1102      Zuerich, JoseCHE;Home supply warehouse stores;18.75;CHF;;CHF;18.75;;22.08.2017
+1111 1111 1111;0000 0000 0000 0000;JOHN DOE;18.08.2017;Coop-1833 ZH Manessehof  Zurich       CHE;Grocery stores;4.45;CHF;;CHF;4.45;;21.08.2017
+1111 1111 1111;0000 0000 0000 0000;JOHN DOE;18.08.2017;Migros MR Brunaupark     Zurich       CHE;Restaurants, Bars;11.30;CHF;;CHF;11.30;;21.08.2017
+1111 1111 1111;0000 0000 0000 0000;JOHN DOE;11.08.2017;25hours Zurich HB        Zurich       CHE;Hotels;32.00;CHF;;CHF;32.00;;14.08.2017
+1111 1111 1111;0000 0000 0000 0000;JOHN DOE;10.08.2017;KINO METROPOL            ZUERICH      CHE;Motion picture theater;16.00;CHF;;CHF;16.00;;11.08.2017
+1111 1111 1111;0000 0000 0000 0000;JOHN DOE;10.08.2017;Coop-1833 ZH Manessehof  Zurich       CHE;Grocery stores;20.65;CHF;;CHF;20.65;;11.08.2017
+1111 1111 1111;0000 0000 0000 0000;JOHN DOE;09.08.2017;Restaurant Vietnam       Zurich       CHE;Restaurants, Bars;15.50;CHF;;CHF;15.50;;10.08.2017
+1111 1111 1111;0000 0000 0000 0000;JOHN DOE;09.08.2017;Coop-1833 ZH Manessehof  Zurich       CHE;Grocery stores;2.50;CHF;;CHF;2.50;;10.08.2017
+1111 1111 1111;0000 0000 0000 0000;JOHN DOE;09.08.2017;LILY'S FACTORY           Z rich       CHE;Restaurants, Bars;30.00;CHF;;CHF;30.00;;11.08.2017
